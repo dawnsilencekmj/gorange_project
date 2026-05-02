@@ -24,3 +24,14 @@ uvicorn app.main:app --reload --port 8000
 
 ## iPad에서 확인
 빠르게 접속 확인하려면 `docs/RUN_ON_IPAD.md` 체크리스트를 따라하세요.
+
+
+### Frontend (Vite)
+```bash
+cd frontend
+npm install
+npm run dev
+```
+
+- 기본 URL: `http://localhost:5173`
+- API 기본 URL: `http://localhost:8000/api/v1`
