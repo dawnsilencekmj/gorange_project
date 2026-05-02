@@ -20,3 +20,7 @@ uvicorn app.main:app --reload --port 8000
 2. Category Analytics
 3. Data Explorer
 4. Playground
+
+
+## iPad에서 확인
+빠르게 접속 확인하려면 `docs/RUN_ON_IPAD.md` 체크리스트를 따라하세요.
