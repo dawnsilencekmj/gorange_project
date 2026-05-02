@@ -1,0 +1,7 @@
+date,symbol,sector,industry,open,high,low,close,volume
+2026-04-20,NVDA,Technology,Semiconductors,900,920,890,915,45000000
+2026-04-20,AMD,Technology,Semiconductors,160,165,158,163,52000000
+2026-04-20,AAPL,Technology,Consumer Electronics,200,205,198,204,60000000
+2026-04-21,NVDA,Technology,Semiconductors,915,930,905,926,43000000
+2026-04-21,AMD,Technology,Semiconductors,163,168,161,167,51000000
+2026-04-21,AAPL,Technology,Consumer Electronics,204,208,202,206,59000000
